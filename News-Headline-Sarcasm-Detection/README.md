@@ -20,5 +20,5 @@ Here’s a shorter version of the project description:
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/adityalawand7/News-Headline-Sarcasm-Detection.git`
+1. Clone the repository: ``
 2. Install the required dependencies: `pip install -r requirements.txt`
